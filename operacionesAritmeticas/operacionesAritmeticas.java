@@ -1,3 +1,5 @@
+package operacionesAritmeticas;
+
 public class operacionesAritmeticas {
     
     public static void main(String[] args){

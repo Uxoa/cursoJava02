@@ -1,3 +1,5 @@
+package operacionesAritmeticas;
+
 import java.util.Scanner;
 
 public class Edad {
